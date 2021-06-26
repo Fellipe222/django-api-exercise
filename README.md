@@ -21,7 +21,7 @@ Basically, this project can be segregated in the steps below:
  <img src="https://user-images.githubusercontent.com/56563965/123497806-e62fb980-d605-11eb-8aa5-d227e84ef05a.png">
  
  - Now, you need to provide you Google API key:
- <img src="https://user-images.githubusercontent.com/56563965/114294967-7d11be80-9a78-11eb-8bab-1346389c969b.png">
+ <img src="https://user-images.githubusercontent.com/56563965/123498468-71a94a80-d606-11eb-8bfe-e33b998d9896.png">
  
  - Inform the path where the csv file is located:
  <img src="https://user-images.githubusercontent.com/56563965/114295037-f7424300-9a78-11eb-896b-d77e8673662c.png">
@@ -30,10 +30,10 @@ Basically, this project can be segregated in the steps below:
  <img src="https://user-images.githubusercontent.com/56563965/114295066-44261980-9a79-11eb-80b7-84f13d47ded0.png">
  
  - Once finished the importation, you are going to see this message:
- <img src="https://user-images.githubusercontent.com/56563965/114295258-797f3700-9a7a-11eb-9f1f-2f3a251e222f.png">
+ <img src="https://user-images.githubusercontent.com/56563965/123498625-905c1100-d607-11eb-83d0-24d0a907b0b4.png">
  
  - Done that, you're ready to run the server. Now, just type "python manage.py runserver" and press ENTER once more:
- <img src="https://user-images.githubusercontent.com/56563965/114295382-51dc9e80-9a7b-11eb-8ff9-7576fc23fb69.png">
+ <img src="https://user-images.githubusercontent.com/56563965/123498649-b386c080-d607-11eb-90af-8dadab8e421c.png">
  
  - Go to your web browser and paste the IP adress shown at CMD and... ENTER again:
  <img src="https://user-images.githubusercontent.com/56563965/114295642-e5629f00-9a7c-11eb-9801-84846eec98ee.png">
@@ -45,7 +45,5 @@ Basically, this project can be segregated in the steps below:
  
  <h2>API documentation</h2>
  - The API documentation is availabe at "http://127.0.0.1:8000/doc/"
- <img src="https://user-images.githubusercontent.com/56563965/114295889-8aca4280-9a7e-11eb-9896-8a12613951ec.png">
- 
- 
+ <img src="https://user-images.githubusercontent.com/56563965/123498669-ca2d1780-d607-11eb-9d46-b9b0c499df63.png">
  
