@@ -14,11 +14,11 @@ Basically, this project can be segregated in the steps below:
 
 <h2>How to use?</h2>
 - Open up CMD and type the path, where the code is located and press ENTER:
-<img src="https://user-images.githubusercontent.com/56563965/114294431-f0b1cc80-9a74-11eb-8076-a5a3b2c586f0.png">
+<img src="https://user-images.githubusercontent.com/56563965/123497803-e2039c00-d605-11eb-93bd-964e502c7330.png">
 
 - Type: python manage.py <b>importcsv</b> (the file with will be inserted into the database) and press ENTER:<br>
   <b>Note:</b> if the 7th row data won't be "city", an error will be raised.
- <img src="https://user-images.githubusercontent.com/56563965/114294752-01fbd880-9a77-11eb-86fe-a6633b4faf7b.png">
+ <img src="https://user-images.githubusercontent.com/56563965/123497806-e62fb980-d605-11eb-8aa5-d227e84ef05a.png">
  
  - Now, you need to provide you Google API key:
  <img src="https://user-images.githubusercontent.com/56563965/114294967-7d11be80-9a78-11eb-8bab-1346389c969b.png">
